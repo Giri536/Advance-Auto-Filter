@@ -39,13 +39,13 @@ async def save_group(bot, message):
             return
         buttons = [
             [
-                InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇs 📣', url='https://t.me/VJ_Bots')
+                InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇs 📣', url='https://t.me/A2ZFILMS56')
             ],
             [
-                InlineKeyboardButton('♠️ Subscribe ♠️', url='https://youtube.com/@Tech_VJ'),
+                InlineKeyboardButton('♠️ Follow Me On Instagram ♠️', url='https://instagram.com/a2zfilms56'),
             ],
             [
-                InlineKeyboardButton('🎗️ Owner 🎗️',url='https://t.me/anjel_neha')
+                InlineKeyboardButton('🎗️ Owner 🎗️',url='https://t.me/Giri38')
             ]
             ]
         reply_markup=InlineKeyboardMarkup(buttons)

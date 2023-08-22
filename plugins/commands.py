@@ -57,7 +57,7 @@ async def start(client, message):
             InlineKeyboardButton('Aʙᴏᴜᴛ 🌐', callback_data='about')
         ], [
             InlineKeyboardButton('🔗 Back Up Channel 🔗',
-                                 url=f'https://t.me/A2ZFILMS56)
+                                 url=f'https://t.me/A2ZFILMS56')
         ]] 
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(

@@ -109,7 +109,7 @@ async def start(client, message):
             InlineKeyboardButton('Aʙᴏᴜᴛ 🌐', callback_data='about')
         ], [
             InlineKeyboardButton('🔗 Follow Me On Instagram 🔗',
-                                 url=f'https://instagram.com/satirtha_creation')
+                                 url=f'https://instagram.com/a2zfilms56')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(

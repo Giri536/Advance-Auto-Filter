@@ -162,7 +162,7 @@ async def start(client, message):
                          [InlineKeyboardButton('⚡ Request Group ⚡', url='https://t.me/+jbWE7aBLS7MzOTI9'),
                           InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/A2ZFILMS56')
                        ],[
-                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/Giri38")
+                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="https://t.me/Giri38")
                          ]
                         ]
                     )
@@ -180,7 +180,7 @@ async def start(client, message):
                          [InlineKeyboardButton('⚡ Request Group ⚡', url='https://t.me/+jbWE7aBLS7MzOTI9'),
                           InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/A2ZFILMS56')
                        ],[
-                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/Giri38")
+                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="https://t.me/Giri38")
                          ]
                         ]
                     )
@@ -251,7 +251,7 @@ async def start(client, message):
                           InlineKeyboardButton('⚡ Request Group ⚡', url='https://t.me/+jbWE7aBLS7MzOTI9'),
                           InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/A2ZFILMS56')
                        ],[
-                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/Giri38")
+                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="https://t.me/Giri38")
                          ]
                         ]
                     )
@@ -294,7 +294,7 @@ async def start(client, message):
                           InlineKeyboardButton('⚡ Request Group ⚡', url='https://t.me/+jbWE7aBLS7MzOTI9'),
                           InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/A2ZFILMS56')
                        ],[
-                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/Giri38")
+                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="https://t.me/Giri38")
                          ]
                         ]
                     )

@@ -38,7 +38,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/anjel_neha)</code>
+<code>[Button Text](buttonurl:https://t.me/A2ZFILMS56)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -128,8 +128,8 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : Anjel Neha
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/vjbots_bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : Mr. Giri
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Giri38'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 Check Your Spelling, Release Date, If You Still Don't Get The Movie Then Type Like This...
@@ -166,7 +166,7 @@ Owner Will Update The Movie Within 24Hour"""
 ♦️ <b>User ID</b> : `{}` """
 
     CAPTION = """
-<b>ɴᴀᴍᴇ: <code>{file_name}</code> \n\nJᴏɪɴ Nᴏᴡ: [⚡ VJ Bots⚡](https://t.me/VJ_Bots)</b>"""
+<b>ɴᴀᴍᴇ: <code>{file_name}</code> \n\nJᴏɪɴ Nᴏᴡ: [⚡ A2Z FILMS ⚡](https://t.me/A2ZFILMS56)</b>"""
 
     IMDB_TEMPLATE_TXT = """<b><i>📟 ᴛɪᴛᴛʟᴇ :</b></i> {title} \n<b><i>🌟 ʀᴀᴛɪɴɢ :</b></i> {rating} \n<b><i>🎭 ɢᴇɴʀᴇ :</b></i> {genres} \n<b><i>📆 ʀᴇʟᴇᴀsᴇ :</b></i> {year} </b></i>\n<b><i>⏰ ᴅᴜʀᴀᴛɪᴏɴ :</b></i> {runtime}\n\n<b><i>🔖 𝓟𝓵𝓸𝓽  :</b></i> `{plot}` \n\n<b><i>⚡ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ⚡ :</b></i> {message.chat.title}"""
 

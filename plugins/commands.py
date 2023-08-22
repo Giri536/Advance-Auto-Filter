@@ -101,15 +101,15 @@ async def start(client, message):
                                  url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton(
-                '🏆 Group 🏆', url='https://t.me/neha_movie_request'),
+                '🏆 Group 🏆', url='https://t.me/+jbWE7aBLS7MzOTI9'),
             InlineKeyboardButton(
-                '📣 Updates 📣', url='https://t.me/vj_bots')
+                '📣 Updates 📣', url='https://t.me/A2ZFILMS56')
         ], [
             InlineKeyboardButton('📚 Hᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('Aʙᴏᴜᴛ 🌐', callback_data='about')
         ], [
-            InlineKeyboardButton('🔗 Subscribe YouTube Channel 🔗',
-                                 url=f'https://youtube.com/@Tech_VJ')
+            InlineKeyboardButton('🔗 Follow Me On Instagram 🔗',
+                                 url=f'https://instagram.com/satirtha_creation')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -159,10 +159,10 @@ async def start(client, message):
                     protect_content=msg.get('protect', False),
                     reply_markup=InlineKeyboardMarkup(
                         [
-                         [InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/vj_bot_disscussion'),
-                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/vj_bots')
+                         [InlineKeyboardButton('⚡ Request Group ⚡', url='https://t.me/+jbWE7aBLS7MzOTI9'),
+                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/A2ZFILMS56')
                        ],[
-                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/VJBots_bot")
+                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/Giri38")
                          ]
                         ]
                     )
@@ -177,10 +177,10 @@ async def start(client, message):
                     protect_content=msg.get('protect', False),
                     reply_markup=InlineKeyboardMarkup(
                         [
-                         [InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/vj_bot_disscussion'),
-                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/vj_bots')
+                         [InlineKeyboardButton('⚡ Request Group ⚡', url='https://t.me/+jbWE7aBLS7MzOTI9'),
+                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/A2ZFILMS56')
                        ],[
-                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/VJBots_bot")
+                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/Giri38")
                          ]
                         ]
                     )
@@ -248,10 +248,10 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                          [
-                          InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/vj_bot_disscussion'),
-                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/vj_bots')
+                          InlineKeyboardButton('⚡ Request Group ⚡', url='https://t.me/+jbWE7aBLS7MzOTI9'),
+                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/A2ZFILMS56')
                        ],[
-                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/VJBots_bot")
+                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/Giri38")
                          ]
                         ]
                     )
@@ -291,10 +291,10 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                          [
-                          InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/vj_bot_disscussion'),
-                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/vj_bots')
+                          InlineKeyboardButton('⚡ Request Group ⚡', url='https://t.me/+jbWE7aBLS7MzOTI9'),
+                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/A2ZFILMS56')
                        ],[
-                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/VJBots_bot")
+                          InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="t.me/Giri38")
                          ]
                         ]
                     )

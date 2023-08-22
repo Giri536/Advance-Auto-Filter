@@ -909,15 +909,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
                                  url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton(
-                '🏆 Group 🏆', url='https://t.me/Neha_movie_request'),
+                '🏆 Group 🏆', url='https://t.me/+jbWE7aBLS7MzOTI9'),
             InlineKeyboardButton(
-                '📣 Updates 📣', url='https://t.me/VJ_bots')
+                '📣 Updates 📣', url='https://t.me/A2ZFILMS56')
         ], [
             InlineKeyboardButton('📚 Hᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('Aʙᴏᴜᴛ 🌐', callback_data='about')
         ], [
-            InlineKeyboardButton('🔗 Subscribe YouTube Channel 🔗',
-                                 url=f'https://youtube.com/@Tech_VJ')
+            InlineKeyboardButton('🔗 Follow Me On Instagram 🔗',
+                                 url=f'https://instagram.com/a2zfilms56')
         ]] 
         
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -995,8 +995,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('⚡ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ⚡', url='https://t.me/vj_botz'),
-            InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/Vj_bots')
+            InlineKeyboardButton('⚡ Request Group ⚡', url='https://t.me/+jbWE7aBLS7MzOTI9'),
+            InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/A2ZFILMS56')
         ],[
             InlineKeyboardButton('Hᴏᴍᴇ', callback_data='start'),
             InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close_data')
@@ -1186,7 +1186,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "owner_info":
             btn = [[
                     InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="https://t.me/Vj_bots")
+                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="https://t.me/A2ZFILMS56")
                   ]]
             await client.edit_message_media(
                 query.message.chat.id, 

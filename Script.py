@@ -6,7 +6,7 @@ If You Want To Create This Type Of Bot Contact Us
 
 🔗 For More Information Contact @Giri38 🔗</b>"""
 
-    ABOUT_TXT = """<b><i>🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/A2Z_FILMS_BOT><b>A2Z FILMS SEARCH BOT</b></a>\n
+    ABOUT_TXT = """<b><i>🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/A2Z_FILMS_BOT><b>A2Z FILMS BOT</b></a>\n
 👑 Oᴡɴᴇʀ : <a href=https://t.me/Giri38><b>🏆 GIRI 🏆</b></a>\n
 📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/@A2ZFILMS56><b>⚡ A2Z FILMS⚡</b></a>\n
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n

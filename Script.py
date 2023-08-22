@@ -4,11 +4,11 @@ class script(object):
     HELP_TXT = """<b>Hᴇʏ {}
 If You Want To Create This Type Of Bot Contact Us
 
-🔗 For More Information Contact @VJbots_bot 🔗</b>"""
+🔗 For More Information Contact @Giri38 🔗</b>"""
 
     ABOUT_TXT = """<b><i>🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/YourSearchVJbot><b>Movie Search Bot</b></a>\n
-👑 Oᴡɴᴇʀ : <a href=https://t.me/vjbots_bot><b>🏆 Vijay 🏆</b></a>\n
-📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/vj_Bots><b>⚡ VJ Bots ⚡</b></a>\n
+👑 Oᴡɴᴇʀ : <a href=https://t.me/Giri38><b>🏆 GIRI 🏆</b></a>\n
+📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/@A2ZFILMS56><b>⚡ A2Z FILMS⚡</b></a>\n
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ\n
@@ -16,7 +16,7 @@ If You Want To Create This Type Of Bot Contact Us
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 ✅ - This Bot Is An Private Project
-✅ - ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/VJ_Bots">⚡ ʜᴇʀᴇ ⚡</a>
+✅ - ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/Giri38">⚡ ʜᴇʀᴇ ⚡</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:</b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>

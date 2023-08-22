@@ -23,13 +23,13 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇs 📣', url='https://t.me/VJ_Bots')
+                InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇs 📣', url='https://t.me/A2ZFILMS56')
             ],
             [
-                InlineKeyboardButton('♠️ Subscribe ♠️', url='https://youtube.com/@Tech_VJ'),
+                InlineKeyboardButton('♠️ Request Group ♠️', url='https://t.me/+jbWE7aBLS7MzOTI9'),
             ],
             [
-                InlineKeyboardButton('🎗️ Owner 🎗️',url='https://t.me/vjbots_bot')
+                InlineKeyboardButton('🎗️ Owner 🎗️',url='https://t.me/Giri38')
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -49,15 +49,15 @@ async def start(client, message):
                                  url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton(
-                '🔍 Group 🔍', url='https://t.me/vJ_botz'),
+                '🔍 Group 🔍', url='https://t.me/+jbWE7aBLS7MzOTI9'),
             InlineKeyboardButton(
-                '🤖 Updates', url='https://t.me/VJ_Bots')
+                '🤖 Updates', url='https://t.me/A2ZFILMS56')
         ], [
             InlineKeyboardButton('📚 Hᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('Aʙᴏᴜᴛ 🌐', callback_data='about')
         ], [
-            InlineKeyboardButton('🔗 Subscribe YouTube Channel 🔗',
-                                 url=f'https://youtube.com/@Tech_VJ')
+            InlineKeyboardButton('🔗 Back Up Channel 🔗',
+                                 url=f'https://t.me/A2ZFILMS56)
         ]] 
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(

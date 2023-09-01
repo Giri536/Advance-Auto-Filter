@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇs 📣', url='https://t.me/A2ZFILMS56')
+                InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇs 📣', url='https://t.me/+V3wXIXjlRUVkYTU1')
             ],
             [
                 InlineKeyboardButton('♠️ Request Group ♠️', url='https://t.me/+jbWE7aBLS7MzOTI9'),
@@ -51,7 +51,7 @@ async def start(client, message):
             InlineKeyboardButton(
                 '🔍 Group 🔍', url='https://t.me/+jbWE7aBLS7MzOTI9'),
             InlineKeyboardButton(
-                '🤖 Updates', url='https://t.me/A2ZFILMS56')
+                '🤖 Updates', url='https://t.me/+V3wXIXjlRUVkYTU1')
         ], [
             InlineKeyboardButton('📚 Hᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('Aʙᴏᴜᴛ 🌐', callback_data='about')
@@ -160,7 +160,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [InlineKeyboardButton('⚡ Request Group ⚡', url='https://t.me/+jbWE7aBLS7MzOTI9'),
-                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/A2ZFILMS56')
+                          InlineKeyboardButton('🔗 Backup Channel 🔗', url='https://t.me/A2ZFILMS56')
                        ],[
                           InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="https://t.me/Giri38")
                          ]
@@ -178,7 +178,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [InlineKeyboardButton('⚡ Request Group ⚡', url='https://t.me/+jbWE7aBLS7MzOTI9'),
-                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/A2ZFILMS56')
+                          InlineKeyboardButton('🔗 Backup Channel 🔗', url='https://t.me/A2ZFILMS56')
                        ],[
                           InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="https://t.me/Giri38")
                          ]
@@ -249,7 +249,7 @@ async def start(client, message):
                     [
                          [
                           InlineKeyboardButton('⚡ Request Group ⚡', url='https://t.me/+jbWE7aBLS7MzOTI9'),
-                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/A2ZFILMS56')
+                          InlineKeyboardButton('🔗 Backup Channel 🔗', url='https://t.me/A2ZFILMS56')
                        ],[
                           InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="https://t.me/Giri38")
                          ]
@@ -292,7 +292,7 @@ async def start(client, message):
             [
                          [
                           InlineKeyboardButton('⚡ Request Group ⚡', url='https://t.me/+jbWE7aBLS7MzOTI9'),
-                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/A2ZFILMS56')
+                          InlineKeyboardButton('🔗 Backup Channel 🔗', url='https://t.me/A2ZFILMS56')
                        ],[
                           InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="https://t.me/Giri38")
                          ]

@@ -558,7 +558,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         reply_markup=IInlineKeyboardMarkup(
                         [
                          [InlineKeyboardButton('⚡ Request Group ⚡', url='https://t.me/+jbWE7aBLS7MzOTI9'),
-                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/A2ZFILMS56')
+                          InlineKeyboardButton('🔗 Backup Channel 🔗', url='https://t.me/A2ZFILMS56')
                        ],[
                           InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="https://t.me/Giri38")
                          ]
@@ -605,7 +605,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                         [
                          [InlineKeyboardButton('⚡ Request Group ⚡', url='https://t.me/+jbWE7aBLS7MzOTI9'),
-                          InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/A2ZFILMS56')
+                          InlineKeyboardButton('🔗 Backup Channel 🔗', url='https://t.me/A2ZFILMS56')
                        ],[
                           InlineKeyboardButton("📣 Bᴏᴛ Oᴡɴᴇʀ 📣", url="https://t.me/Giri38")
                          ]
@@ -911,7 +911,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton(
                 '🏆 Group 🏆', url='https://t.me/+jbWE7aBLS7MzOTI9'),
             InlineKeyboardButton(
-                '📣 Updates 📣', url='https://t.me/A2ZFILMS56')
+                '📣 Backup Channel 📣', url='https://t.me/A2ZFILMS56')
         ], [
             InlineKeyboardButton('📚 Hᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('Aʙᴏᴜᴛ 🌐', callback_data='about')
@@ -996,7 +996,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "about":
         buttons = [[
             InlineKeyboardButton('⚡ Request Group ⚡', url='https://t.me/+jbWE7aBLS7MzOTI9'),
-            InlineKeyboardButton('🔗 Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🔗', url='https://t.me/A2ZFILMS56')
+            InlineKeyboardButton('🔗 Backup Channel 🔗', url='https://t.me/A2ZFILMS56')
         ],[
             InlineKeyboardButton('Hᴏᴍᴇ', callback_data='start'),
             InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close_data')

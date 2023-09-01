@@ -39,7 +39,7 @@ async def save_group(bot, message):
             return
         buttons = [
             [
-                InlineKeyboardButton('📣 Uᴘᴅᴀᴛᴇs 📣', url='https://t.me/A2ZFILMS56')
+                InlineKeyboardButton('📣 Backup Channel 📣', url='https://t.me/A2ZFILMS56')
             ],
             [
                 InlineKeyboardButton('♠️ Follow Me On Instagram ♠️', url='https://instagram.com/a2zfilms56'),

@@ -103,7 +103,7 @@ async def start(client, message):
             InlineKeyboardButton(
                 '🏆 Group 🏆', url='https://t.me/+jbWE7aBLS7MzOTI9'),
             InlineKeyboardButton(
-                '📣 Updates 📣', url='https://t.me/A2ZFILMS56')
+                '📣 Backup Channel 📣', url='https://t.me/A2ZFILMS56')
         ], [
             InlineKeyboardButton('📚 Hᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('Aʙᴏᴜᴛ 🌐', callback_data='about')
